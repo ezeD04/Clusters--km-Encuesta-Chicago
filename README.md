@@ -1,7 +1,9 @@
 # Análisis de Encuesta con K-Means
 
 Este proyecto aplica **clustering no supervisado (K-Means)** sobre una base de datos de encuestas políticas en Chicago.  
-El objetivo es **identificar perfiles de votantes** y analizar su relación con la elección presidencial de 2024.  
+El objetivo es **identificar perfiles de votantes** y analizar su relación con la elección presidencial de 2024.
+(LA ENCUESTA NO ES REAL, SOLO SIRVE PARA PRACTICAR.)
+(por desgracia el archivo con los datos es tan pesado que no lo puedo compartir vía github)
 ---
 
 ## 📊 Flujo del análisis
